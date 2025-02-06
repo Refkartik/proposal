@@ -16,6 +16,14 @@ body {
     font-size: 3em;
     color: #d32f2f;
 }
+.sub_header_text{
+    font-size : 2em;
+    color:#d32f2f;
+}
+.promises{
+    font-size: 2em;
+    color: #d32f2f;      
+}
 
 .gif_container img {
     width: 100%; 
